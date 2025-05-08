@@ -37,7 +37,8 @@ const backGround = new Sprite({
     x: 0,
     y: 0,
   },
-  imgSrc: "./imgs/bg.png",
+  imgSrc: "./imgs/360_F_957485798_hAZzWIBnbkkgMCxHmEtm8slcVt3eg8Dd.jpg",
+  scale: 1.7
 });
 
 const bird = new Sprite({
